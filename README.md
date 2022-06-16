@@ -1,8 +1,8 @@
 # projeto-usuarios-react
 
-<img src="../../assets/foto da minha Home.png" alt="foto da pagina principal do meu projeto">
+<img src="../../src/assets/foto da minha Home.png" alt="foto da pagina principal do meu projeto">
 
-<img src="../../assets/foto da minha users.png" alt="foto da pagina secundaria do meu projeto">
+<img src="../../src/assets/foto da minha users.png" alt="foto da pagina secundaria do meu projeto">
 
 > resultado final do meu projeto .
 ### Ajustes e melhorias
