@@ -9,8 +9,8 @@
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [x] criação react
-- [x] criação javaScript
+- [x] criação REACT
+- [x] criação JAVASCRIPT
  
 
 
